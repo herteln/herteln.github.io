@@ -1,4 +1,4 @@
-# Herteln — Data & AI Project Portfolio
+# Nicole Hertel — Data & AI Project Portfolio
 
 Portfolio of projects in Data Architecture, Data Engineering,
 Databases, Cloud, Machine Learning and Artificial Intelligence.
